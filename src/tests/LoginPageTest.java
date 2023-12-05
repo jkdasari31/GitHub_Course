@@ -6,5 +6,6 @@ public class LoginPageTest {
 		String username = "admin";
 		String pswd = "admin";
 		System.out.println("Logged in");
+		System.out.println("Logged out");
 	}
 }
