@@ -6,6 +6,8 @@ public class Feature1 {
 		System.out.println("Feature one tagging");
 		
 		System.out.println("Feature two tagging");
+		
+		System.out.println("Feature three tagging");
 
 	}
 
